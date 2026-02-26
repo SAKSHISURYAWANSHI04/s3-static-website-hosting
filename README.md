@@ -5,7 +5,7 @@ This project shows how to host a static website using AWS S3.
 ## Steps
 
 ### 1. Create S3 Bucket
-![Create Bucket](images/step1.png)
+https://github.com/SAKSHISURYAWANSHI04/s3-static-website-hosting/blob/9453ad4d6fc8c0c4e5f2839764a530729e646cbc/imagesstep1.png.png
 
 ### 2. Upload index.html
 ![Upload File](images/step2.png)
